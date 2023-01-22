@@ -1,0 +1,3 @@
+-- Replace "https://raw.githubusercontent.com/YourUsername/YourRepo/main/PushTool.lua" with the actual URL of your tool script on Github
+local script = game:HttpGet("https://raw.githubusercontent.com/YourUsername/YourRepo/main/PushTool.lua")
+loadstring(script)()
